@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Harshil Vagadiya
 
-### Web developer | Pythondeveloper
+### Web developer | Python developer
 
 
