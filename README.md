@@ -12,9 +12,10 @@
 ### Web developer | Python developer | ODOO developer
 
 ### :woman_technologist: About Me :
-I love coding in Python 🐍. I work at Rupiya as a Python Developer..
+I love coding in Python 🐍. I work at Rupiya.app as a Python Developer..
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+- 🔭 I’m working as a Computer Engineer and contributing to frontend and backend for building web applications in Python and ODOO.
 
 - 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)**
 
@@ -27,6 +28,10 @@ I love coding in Python 🐍. I work at Rupiya as a Python Developer..
 - 🤔 I’m looking for help with `Competitive Programming`
 
 - 💬 Ask me about anything :sweat_smile:
+ 
+- 🌱 Exploring Technical Content Writing.
+
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
