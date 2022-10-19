@@ -1,9 +1,28 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/harshil-vagadiya-8669b7152/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
+  <a href="https://twitter.com/HarshilVagadiy2?t=X17Hogl8OiEgAjShuxixUg&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Harshil Vagadiya
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 =====================================
 
-### Web developer | Python developer
+### Web developer | Python developer | ODOO developer
 
-## 👨🏻‍💻 About Me:
+### :woman_technologist: About Me :
+I love coding in Python 🐍. I work at Rupiya as a Python Developer..
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
@@ -11,13 +30,13 @@ Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/maste
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `AI&ML and MERN Stack`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `Development Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
@@ -61,3 +80,5 @@ Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/maste
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="25px"/>
 <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25px"/>
 </p>
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
