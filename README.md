@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/harshil-vagadiya-8669b7152/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
@@ -12,7 +12,7 @@
 ### Web developer | Python developer | ODOO developer
 
 ### :woman_technologist: About Me :
-I love coding in Python 🐍. I work at Rupiya.app as a Python Developer..
+I love coding<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Python 🐍. I work at Rupiya.app as a Python Developer.
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 - 🔭 I’m working as a Computer Engineer and contributing to frontend and backend for building web applications in Python and ODOO.
