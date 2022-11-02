@@ -17,7 +17,7 @@ I love coding<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 - 🔭 I’m working as a Computer Engineer and contributing to frontend and backend for building web applications in Python and ODOO.
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)**
+- 🙋‍♂️ All about me is at **[My Website](https://harshilvagadiya.github.io/react_portfolio/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
